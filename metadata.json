@@ -1,0 +1,5 @@
+{
+  "name": "CultoClips",
+  "description": "AI-powered video clipper for YouTube content using Gemini 1.5 Flash and Vercel Serverless.",
+  "requestFramePermissions": []
+}
